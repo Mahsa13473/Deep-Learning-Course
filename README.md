@@ -9,7 +9,7 @@ Implemented and visualized the activations and layers weights of LeNet-5 CNN and
 
 ## [3) Implementaion of RNN-based Language Models and Apply RNNs on Text Classification Problem](https://github.com/Mahsa13473/Deep-Learning/tree/main/three)
 - Implemented and improved RNN-based language models and compared extracted word representation from different models
-- Designed a Vanilla RNN to capture word representations to classify newsgroups messages into four major categories (a text classification problem) with 72% accuracy using NLTK and Keras
+- Designed a Vanilla RNN to capture word representations to classify newsgroups messages into four major categories (text classification problem) with 72% accuracy using NLTK and Keras
 
 ## [4) Implemention and Analyzing Autoencoders and Generative Models](https://github.com/Mahsa13473/Deep-Learning/tree/main/four)
 - Implemented and analyzed the Fully Connected and Variational AutoEncoders and VAE-GAN on the Fashion-MNIST dataset in Keras
